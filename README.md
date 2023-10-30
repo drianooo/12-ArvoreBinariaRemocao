@@ -1,3 +1,6 @@
+adriano.fraga@fatec.sp.gov.br
+Adriano Ribeiro Fraga
+
 # Arvores (remoção de  elemento)
 ---
 
